@@ -15,31 +15,14 @@
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
-# **🔒 Jose Carlos - Entusiasta de Cibersegurança 🚀**
+# **🔒 Jose Carlos - Entusiasta de Cibersegurança**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-## **Sobre Mim:**
+## **Sobre Mim**
 Olá, sou José Carlos, um entusiasta apaixonado por cibersegurança em busca de desafios emocionantes. 
 Como profissional júnior, estou empenhado em aprender e contribuir para tornar o mundo digital mais seguro.
 Estou explorando as nuances da segurança cibernética com entusiasmo e dedicação.
-
-## **Áreas de Interesse:**
-- 🔐 Análise de Vulnerabilidades: Identificando e corrigindo falhas de segurança.
-- 🌐 Segurança de Rede: Explorando arquiteturas de rede seguras.
-- 🚀 Penetration Testing: Avaliando e fortalecendo sistemas.
-- 🔩 Hardware Hacking: Investigando possíveis vulnerabilidades no hardware para aprimorar a segurança.
-- ⚡ Eletrônica: Compreendendo componentes e circuitos para inovações seguras.
-
-## **Estudo Atual:**
-Atualmente, estou focado em ampliar meus conhecimentos nas seguintes áreas:
-
-- 🖥️ Aprofundando meus estudos em PHP, JavaScript, Python, C/C++, e Bash.
-- 🛠️ Explorando ferramentas e técnicas avançadas de análise de vulnerabilidades.
-- 🌐 Aprofundando o entendimento em arquiteturas de rede seguras.
-- 📡 Praticando e aprimorando minhas habilidades em Penetration Testing.
-- 🔧 Dedicado a aprimorar meu conhecimento no Hardware Hacking, buscando compreender suas complexidades. 
-- 🤖 Explorando os princípios da eletrônica para desenvolver habilidades e conhecimentos sólidos na área.
 
 ## **Conecte-se Comigo:**
 - [LinkedIn](https://www.linkedin.com/in/carlos0ff/): Conecte-se para discutir oportunidades e compartilhar conhecimento.
