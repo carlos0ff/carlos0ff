@@ -7,19 +7,12 @@
 
 ---
 
+
 ### 🛡️ About Me
 - 🚀 Passionate about **Cybersecurity**, ethical hacking, and secure development.
 - 📖 Currently diving into **penetration testing**, **reverse engineering**, and **cryptography**.
 - 🎓 Computer Science student at UNIPÊ, with a focus on **networking** and **system security**.
 - 🌍 Always looking for ways to protect systems and data from threats.
-
----
-
-### 📊 GitHub Stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos GitHub stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 ---
 
@@ -35,12 +28,13 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
 ![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache&logoColor=D22128)&nbsp;
 
-
 ---
 
-### 🌍 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos0ff/)
-- 📫 [Email](mailto:carlosiilva66@gmail.com)
+### 📊 GitHub Stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos GitHub stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ---
 
@@ -48,7 +42,5 @@
   <p style="font-family: 'Arial', sans-serif; color: #c9d1d9; font-size: 18px; margin-bottom: 20px; font-weight: 400;">Thank you for visiting my profile! 🙏</p>
   <img src="https://profile-counter.glitch.me/{carlos0ff}/count.svg" alt="Visitors count" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
 </div>
-
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer"/>
