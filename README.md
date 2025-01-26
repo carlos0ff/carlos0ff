@@ -40,7 +40,7 @@
 
 ### 🌍 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlos0ff/)
-- 📫 [Email](mailto:your-email@example.com)
+- 📫 [Email](mailto:carlosiilva66@gmail.com)
 
 ---
 
