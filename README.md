@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Welcome to My GitHub Profile!</h1>
-  <h3>Cybersecurity | Computer Networks | Software Developer</h3>
+  <h3>Cyber Security | Computer Networks | Software Developer</h3>
 </div>
 
 ---
