@@ -2,31 +2,32 @@
 
 <div align="center">
   <h1>👋 Welcome to My GitHub Profile!</h1>
-  <h3>Cyber Security | Computer Networks | Software Developer</h3>
+  <h3>C# Developer | .NET | Software Engineering</h3>
 </div>
 
 ---
 
-
 ### 🛡️ About Me
-- 🚀 Passionate about **Cybersecurity**, ethical hacking, and secure development.
-- 📖 Currently diving into **penetration testing**, **reverse engineering**, and **cryptography**.
-- 🎓 Computer Science student at UNIPÊ, with a focus on **networking** and **system security**.
-- 🌍 Always looking for ways to protect systems and data from threats.
+- 🚀 Passionate about **C#**, **.NET**, and **software architecture**.
+- 📖 Currently diving deep into **ASP.NET Core**, **Entity Framework**, and **microservices**.
+- 🎓 Computer Science student at **UNIPÊ**, focusing on **backend development** and **system design**.
+- ⚡ Enthusiastic about performance optimization, cloud computing (Azure & AWS), and DevOps practices.
+- 🌍 Driven by the challenge of building robust, scalable, and high-performance applications.
 
 ---
 
 #### 🛠️ Languages and Technologies
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)&nbsp;
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-000?style=for-the-badge&logo=cisco&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
-![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache&logoColor=D22128)&nbsp;
+![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=8C1D40)&nbsp;
+![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=aspdotnet&logoColor=5C2D91)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)&nbsp;
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-000?style=for-the-badge&logo=entityframework&logoColor=5C2D91)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)&nbsp;
+![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=swagger&logoColor=85EA2D)&nbsp;
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)&nbsp;
 
 ---
 
