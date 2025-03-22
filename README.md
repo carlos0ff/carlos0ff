@@ -2,14 +2,14 @@
 
 <div align="center">
   <h1>👋 Welcome to My GitHub Profile!</h1>
-  <h3>C# Developer | .NET | Software Engineering</h3>
+  <h3>Java Developer | Spring Boot | Backend Development</h3>
 </div>
 
 ---
 
 ### 🛡️ About Me
-- 🚀 Passionate about **C#**, **.NET**, and **software architecture**.
-- 📖 Currently diving deep into **ASP.NET Core**, **Entity Framework**, and **microservices**.
+- 🚀 Passionate about **Java**, **Spring Boot**, and **software architecture**.
+- 📖 Currently deepening my knowledge in **Java 17**, **Spring Boot**, **Hibernate**, and **microservices**.
 - 🎓 Computer Science student at **UNIPÊ**, focusing on **backend development** and **system design**.
 - ⚡ Enthusiastic about performance optimization, cloud computing (Azure & AWS), and DevOps practices.
 - 🌍 Driven by the challenge of building robust, scalable, and high-performance applications.
@@ -17,17 +17,15 @@
 ---
 
 #### 🛠️ Languages and Technologies
-![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp&logoColor=8C1D40)&nbsp;
-![ASP.NET](https://img.shields.io/badge/ASP.NET-000?style=for-the-badge&logo=aspdotnet&logoColor=5C2D91)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-000?style=for-the-badge&logo=dotnet&logoColor=512BD4)&nbsp;
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-000?style=for-the-badge&logo=entityframework&logoColor=5C2D91)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)&nbsp;
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=F89820)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=hibernate&logoColor=59666C)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql&logoColor=F29111)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=326CE5)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)&nbsp;
-![Swagger](https://img.shields.io/badge/Swagger-000?style=for-the-badge&logo=swagger&logoColor=85EA2D)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure&logoColor=0089D6)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-000?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4)&nbsp;
 
 ---
 
