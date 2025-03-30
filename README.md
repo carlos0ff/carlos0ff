@@ -24,23 +24,39 @@ Aqui estão algumas das tecnologias que utilizo para desenvolver aplicações ro
 #### 🚀 Linguagens de Programação  
 <p>
   <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=F89820" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=F89820" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Ruby-000?style=for-the-badge&logo=ruby&logoColor=CC342D" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<!--   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=239120" alt="C#"/> -->
+  <img src="https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++"/>
 </p>
+
 
 #### 📌 Frameworks & Bibliotecas  
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Hibernate-000?style=for-the-badge&logo=hibernate&logoColor=59666C" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel"/>
+<!--   <img src="https://img.shields.io/badge/ASP.NET_Core-000?style=for-the-badge&logo=aspnetcore&logoColor=5C2D91" alt="ASP.NET Core"/> -->
+<!--   <img src="https://img.shields.io/badge/MVC-000?style=for-the-badge&logo=aspnetcore&logoColor=5C2D91" alt="MVC"/> -->
+  <img src="https://img.shields.io/badge/Entity_Framework-000?style=for-the-badge&logo=entityframework&logoColor=7E4A5F" alt="Entity Framework"/>
+  <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular"/>
 </p>
+
 
 #### 🗄️ Banco de Dados  
 <p>
   <img src="https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server"/>
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=F29111" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql&logoColor=336791" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFCB2F" alt="Firebase"/>
 </p>
+
 
 #### 🔧 Ferramentas de Desenvolvimento  
 <p>
@@ -50,21 +66,20 @@ Aqui estão algumas das tecnologias que utilizo para desenvolver aplicações ro
   <img src="https://img.shields.io/badge/Visual_Studio_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=0078D4" alt="VS Code"/>
 </p>
 
-#### ⚙️ Outras Ferramentas  
+#### 🧪 Ferramentas de Quality Assurance  
 <p>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F1502F" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/PHPUnit-000?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHPUnit"/>
+  <img src="https://img.shields.io/badge/JUnit-000?style=for-the-badge&logo=junit5&logoColor=25A162" alt="JUnit "/>
 </p>
-
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub  
 Aqui estão algumas estatísticas do meu perfil, para você ver o que estou construindo por aqui:
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub Carlos"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub Carlos"/>
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&langs_count=10" alt="Top Linguagens do GitHub Carlos"/>
 </div>
 
 ---
@@ -75,10 +90,10 @@ Adoraria conversar sobre tecnologia, desenvolvimento de software ou até mesmo b
 <p align="left">
   <a href="https://www.linkedin.com/in/carlos0ff" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/carlos0ff/" alt="Instagram" target="_blank">
+  <a href="https://www.instagram.com/carliinhos0f/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/carlos0ff/" alt="Facebook" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<!--   <a href="https://www.facebook.com/carlos0ff/" alt="Facebook" target="_blank"> -->
+<!--     <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" /></a> -->
 </p>
 
 ---
