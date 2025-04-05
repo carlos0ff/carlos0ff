@@ -25,10 +25,6 @@ E tô na busca de novas oportunidades na área tech!
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 
-### Fala tu, trutinha! Quer colar no meu corre? Para de caô e chama no direct 😏📩
-
-[![Instagram URL](https://img.shields.io/twitter/url?color=%23fb3958&label=follow&logo=instagram&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%carliinhos0f)](https://www.instagram.com/carliinhos0f)
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2carlos0ff%2F)](https://www.linkedin.com/in/carlos0ff/)
 
 
 <div align="center">
