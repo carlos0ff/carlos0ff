@@ -14,10 +14,6 @@ No ensino médio, entrei em projetos de eletrônica, redes e Arduino com C.
 Aos 16, já programava em C# e PHP.
 Hoje foco em Java, desenvolvendo mods para Minecraft e apps web com Spring Boot, Angular e TailwindCSS.
 
-
-Atualmente, tô trampando no polo automotivo Stellantis <br/> de Jeep em Goiana, trazendo tecnologia pra deixar as paradas mais eficientes e inovadoras.<br/><br/>
-E tô na busca de novas oportunidades na área tech!
-
 ### As braba que eu domino no teclado, fi! 👨🏽‍💻🔥
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
