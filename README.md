@@ -25,7 +25,7 @@ Hoje foco em Java, desenvolvendo mods para Minecraft e apps web com Spring Boot,
 <br />
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b>Pessoas que me visitaram </b></p>  
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{carlos0ff}/count.svg" />
   </p> 
