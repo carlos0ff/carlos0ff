@@ -21,7 +21,8 @@ Hoje foco em Java, desenvolvendo mods para Minecraft e apps web com Spring Boot,
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 
-
+<br />
+<br />
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
