@@ -9,10 +9,10 @@
 
 ### 😄 Sobre mim
 
-Comecei na TI com 14 anos em cursos de informática básica.
-No ensino médio, entrei em projetos de eletrônica, redes e Arduino com C.
-Aos 16, já programava em C# e PHP.
-Hoje foco em Java, desenvolvendo mods para Minecraft e apps web com Spring Boot, Angular e TailwindCSS.
+Comecei na TI aos 14 anos, com cursos de montagem e manutenção de computadores. Por ser um aluno dedicado e comprometido, fui convidado pelo professor do curso de montagem e manutenção de computadores para atuar como seu jovem aprendiz.
+Durante o ensino médio, participei de projetos de eletrônica, redes e automação com Arduino usando C. Aos 16 anos, já programava em C# e PHP.
+Atualmente, foco no desenvolvimento em Java, criando mods para Minecraft e aplicações web com Spring Boot, Angular e TailwindCSS.
+
 
 ### As braba que eu domino no teclado, fi! 👨🏽‍💻🔥
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
