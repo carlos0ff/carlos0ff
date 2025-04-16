@@ -25,7 +25,7 @@ Atualmente, foco no desenvolvimento em Java, criando mods para Minecraft e aplic
 <br />
 
 <div align="center">
-  <br><p align="centre"><b>Pessoas que me visitaram </b></p>  
+  <br><p align="centre"><b>Os cria que visitou o inútil </b></p>  
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{carlos0ff}/count.svg" />
   </p> 
