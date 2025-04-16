@@ -7,11 +7,25 @@
   Java Developer | Software Engineer | Backend Engineer JRs
 </p>
 
-### 😄 Sobre mim
+### 👨‍💻 Sobre o Criador:
 
 Comecei na TI aos 14 anos, com cursos de montagem e manutenção de computadores. Por ser um aluno dedicado e comprometido, fui convidado pelo professor do curso de montagem e manutenção de computadores para atuar como seu jovem aprendiz.
 Durante o ensino médio, participei de projetos de eletrônica, redes e automação com Arduino usando C. Aos 16 anos, já programava em C# e PHP.
 Atualmente, foco no desenvolvimento em Java, criando mods para Minecraft e aplicações web com Spring Boot, Angular e TailwindCSS.
+```java
+public class DevInutil {
+    public static void main(String[] args) {
+        System.out.println("Criando projetos inúteis desde 2014");
+        while(true) {
+            codar();
+            cafe.comTomar();
+            if(bug.encontrado()) {
+                System.out.println("Não é bug, é feature!");
+            }
+        }
+    }
+}
+```
 
 
 ### As braba que eu domino no teclado, fi! 👨🏽‍💻🔥
