@@ -33,7 +33,7 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 <!-- Skills Section -->
 ### 🛠️ Minhas Stacks de Desenvolvimento
 
-<div align="center">
+<div align="left">
   <!-- Java Stack -->
   <table>
     <tr>
