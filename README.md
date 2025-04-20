@@ -22,7 +22,7 @@
 ---
 
 ### 👨‍💻 Sobre o Criador
-<img align="right" width="500"  src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+<img align="right" width="420"  src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
 
 **Falando sobre coisas pessoais:**
 
