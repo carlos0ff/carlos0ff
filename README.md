@@ -37,19 +37,19 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
   <!-- Java Stack -->
   <table>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="110">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
         <br><strong>Java</strong>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="110">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
         <br><strong>Spring Boot</strong>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="110">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60" height="60" alt="Angular"/>
         <br><strong>Angular</strong>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="110">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>
         <br><strong>Tailwind CSS</strong>
       </td>
