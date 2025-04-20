@@ -3,26 +3,22 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/kuo-hsiu-lee-5928b9a6/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  
-  <a href="mailto:kourtneylee1611@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/yourhandle/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  
-  <a href="https://github.com/carlos0ff" target="_blank">
-    <img src="https://img.shields.io/badge/carlos0ff-3423A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <a href="https://www.linkedin.com/in/kuo-hsiu-lee-5928b9a6/" target="_blank"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> </a>
+  <a href="mailto:kourtneylee1611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/yourhandle/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/carlos0ff" target="_blank"><img src="https://img.shields.io/badge/carlos0ff-3423A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+ <a href="https://github.com/carlos0ff">
+  <img alt="Visitor Count" title="Profile visitor count" src="https://profile-counter.glitch.me/carlos0ff/count.svg" />
+</a>
+
+
 </div>
+
 
 ---
 
 ### 👨‍💻 Sobre o Criador
-<img align="right" width="420"  src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+<img align="right" width="500" height="500" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
 
 **Falando sobre coisas pessoais:**
 
@@ -33,15 +29,16 @@ Com **16 anos**, já estava desenvolvendo com **C# e PHP**.
 
 Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** e aplicações web com **Spring Boot**, **Angular** e **TailwindCSS**.
 
-<h2 align="left">Skills:</h2>
+<h2 align="left">O que eu manjo:</h2>
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p>
-  <div align="left">
-    <img src="https://img.shields.io/badge/-HTML-ff6600?style=for-the-badge&logo=html5&logoColor=ff6600&labelColor=282828">
-    <img src="https://img.shields.io/badge/-CSS-264ee4?style=for-the-badge&logo=css3&logoColor=264ee4&labelColor=282828">
-  </div>
-</p>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 <br/>
@@ -52,11 +49,15 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 
 <p align="center">
   <a href="https://github.com/carlos0ff">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=github-dark&include_all_commits=true&count_private=true&border_color=00000000" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=github-dark&border_color=00000000" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&border_color=00000000" />
   </a>
 </p>
 
-
+<div align="center">
+  
+  ![Visitor Count](https://profile-counter.glitch.me/carlos0ff/count.svg)
+  
+</div>
 
 
