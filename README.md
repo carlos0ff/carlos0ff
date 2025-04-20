@@ -57,11 +57,7 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
   </table>
 </div>
 
-
-
 <br/>
-<br/>
-<br/> 
 
 <!-- GitHub Stats Section -->
 <p align="center">
