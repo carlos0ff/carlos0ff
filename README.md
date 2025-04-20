@@ -63,9 +63,6 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 <br/>
 <br/> 
 
-<br/>
-<br/>
-
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/carlos0ff">
