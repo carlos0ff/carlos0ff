@@ -1,17 +1,22 @@
+<!-- Cabeçalho animado -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=00FF00&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
 </p>
 
+<!-- Contact Section -->
 <div align="center">
-  <a href="mailto:kourtneylee1611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.instagram.com/yourhandle/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:carlosiilva66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/carliinhos0f/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/carlos0ff" target="_blank"><img src="https://img.shields.io/badge/carlos0ff-3423A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/carlos0ff" target="_blank"><img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=3423A6&style=for-the-badge&logoColor=white" alt="Profile Views"></a>
 </div>
-
 
 ---
 
+<!-- About Me Section -->
 ### 👨‍💻 Sobre o Criador
+
+<!-- GIF animado à direita -->
 <img align="right" width="500" height="500" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
 
 **Falando sobre coisas pessoais:**
@@ -23,6 +28,7 @@ Com **16 anos**, já estava desenvolvendo com **C# e PHP**.
 
 Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** e aplicações web com **Spring Boot**, **Angular** e **TailwindCSS**.
 
+<!-- Skills Section -->
 <h2 align="left">O que eu manjo:</h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,6 +46,7 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 <br/>
 <br/>
 
+<!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/carlos0ff">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
