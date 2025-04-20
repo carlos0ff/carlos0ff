@@ -1,8 +1,8 @@
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=false&vCenter=true&duration=3000&color=%1856ED&size=40&height=60&width=800&lines=Oi+!+Eu+sou+carlos;">
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kuo-hsiu-lee-5928b9a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
