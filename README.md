@@ -7,11 +7,7 @@
   <a href="mailto:kourtneylee1611@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/yourhandle/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/carlos0ff" target="_blank"><img src="https://img.shields.io/badge/carlos0ff-3423A6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
- <a href="https://github.com/carlos0ff">
-  <img alt="Visitor Count" title="Profile visitor count" src="https://profile-counter.glitch.me/carlos0ff/count.svg" />
-</a>
-
-
+  <a href="https://github.com/carlos0ff" target="_blank"><img src="https://badges.pufler.dev/visits/carlos0ff/carlos0ff?style=for-the-badge" alt="GitHub"></a>
 </div>
 
 
@@ -54,10 +50,6 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
   </a>
 </p>
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/carlos0ff/count.svg)
-  
-</div>
+
 
 
