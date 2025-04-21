@@ -13,7 +13,7 @@
 </div>
 
 <!-- GIF animado à direita -->
-<img align="right" width="400" height="490" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+<img align="right" width="400" height="495" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
 
 ---
 
