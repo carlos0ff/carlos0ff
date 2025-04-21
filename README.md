@@ -13,7 +13,9 @@
 </div>
 
 <!-- GIF animado à direita -->
-<img align="right" width="400" height="405" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+<img align="right" width="400" height="505" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+
+---
 
 ### 👨‍💻 Sobre o Criador
 
