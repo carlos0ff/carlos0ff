@@ -1,7 +1,6 @@
 <!-- Cabeçalho animado -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
-  
 </p>
 
 <!-- Contact Section -->
@@ -12,8 +11,6 @@
   <a href="https://github.com/carlos0ff" target="_blank"><img src="https://img.shields.io/badge/carlos0ff-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://github.com/carlos0ff" target="_blank"><img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=1856ED&style=for-the-badge&logoColor=white" alt="Profile Views"></a>
 </div>
-
----
 
 <!-- GIF animado à direita -->
 <img align="right" width="400" height="405" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
