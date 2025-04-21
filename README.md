@@ -19,7 +19,7 @@
 ### 👨‍💻 Sobre o Criador
 
 <!-- GIF animado à direita -->
-<img align="right" width="400" height="400" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+<img align="right" width="400" height="500" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
 
 **Falando sobre coisas pessoais:**
 
