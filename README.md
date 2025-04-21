@@ -15,11 +15,13 @@
 
 ---
 
-<!-- About Me Section -->
-### 👨‍💻 Sobre o Criador
-
 <!-- GIF animado à direita -->
 <img align="right" width="400" height="405" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+
+<br />
+<br />
+
+### 👨‍💻 Sobre o Criador
 
 **Falando sobre coisas pessoais:**
 
