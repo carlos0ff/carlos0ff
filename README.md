@@ -21,6 +21,8 @@
 <br />
 <br />
 
+---
+
 ### 👨‍💻 Sobre o Criador
 
 **Falando sobre coisas pessoais:**
