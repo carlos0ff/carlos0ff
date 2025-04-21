@@ -62,8 +62,8 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 <!-- GitHub Stats Section -->
 <p align="center">
   <a href="https://github.com/carlos0ff">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&border_color=00000000" />
+    <img height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000" />
+    <img height="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&border_color=00000000" />
   </a>
 </p>
 
