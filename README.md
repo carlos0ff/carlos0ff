@@ -62,7 +62,7 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 <!-- GitHub Stats Section -->
 <!-- GitHub Stats Section -->
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000"/>
