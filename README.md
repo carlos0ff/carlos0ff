@@ -67,7 +67,6 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align="center">
   <p><b>Os cria que visitou o inútil</b></p>
