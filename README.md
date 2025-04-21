@@ -60,10 +60,20 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
 <br/>
 
 <!-- GitHub Stats Section -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&border_color=00000000"/>
+<!-- GitHub Stats Section -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&border_color=00000000"/>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 
 
