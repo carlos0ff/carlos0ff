@@ -69,6 +69,6 @@ GitHub Stats Section
 
 
 <div align="center">
-  <p><b>Os cria que me visitou </b></p>
+  <!-- p><b>Os cria que me visitou </b></p -->
   <img src="https://profile-counter.glitch.me/carlos0ff/count.svg" alt="Contador de visitas" />
 </div>
