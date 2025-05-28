@@ -49,9 +49,8 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
       </td>
     </tr>
   </table>
-</div>
+</div -->
 
-GitHub Stats Section 
 <div align="center">
   <table border="0">
     <tr>
@@ -63,10 +62,7 @@ GitHub Stats Section
       </td>
     </tr>
   </table>
-</div>-->
-
-
-
+</div> 
 
 <div align="center">
   <!-- p><b>Os cria que me visitou </b></p -->
