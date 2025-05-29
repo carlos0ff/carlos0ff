@@ -1,9 +1,9 @@
-<!-- 
+ 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
 </p>
 
-<div align="center">
+<!-- div align="center" >
    <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:carlosiilva66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/carliinhos0f/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
