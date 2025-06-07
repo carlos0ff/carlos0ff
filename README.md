@@ -1,17 +1,17 @@
- 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
-</p>
 
-<!-- div align="center" >
-   <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+<!--p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
+</p -->
+
+<div align="center" >
+  <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a
   <a href="mailto:carlosiilva66@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.instagram.com/carliinhos0f/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://github.com/carlos0ff" target="_blank"><img src="https://img.shields.io/badge/carlos0ff-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://github.com/carlos0ff" target="_blank"><img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=1856ED&style=for-the-badge&logoColor=white" alt="Profile Views"></a>
 </div>
 
-<img align="right" width="400" height="495" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
+<!-- img align="right" width="400" height="495" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
 
 ---
 
