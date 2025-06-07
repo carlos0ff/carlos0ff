@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="250" alt="Resumo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="235" alt="Resumo" />
 </div>
 
 
