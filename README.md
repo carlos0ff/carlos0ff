@@ -26,8 +26,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="130" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos0ff&theme=tokyonight&hide_border=true" height="130" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&hide_border=true" height="130" alt="Top Langs" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="130" alt="Resumo" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="250" alt="Resumo" />
+</div>
+
 
 
 
