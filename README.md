@@ -1,4 +1,4 @@
-<!--p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://github.com/carlos0ff" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=1856ED&style=for-the-badge&logoColor=white" alt="Profile Views" />
   </a>
-</div-->
+</div>
 
 <br />
 
@@ -86,11 +86,11 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
       </td>
     </tr>
   </table>
-</div --> 
+</div> 
 
 <br />
 
-<div align="center">
-  <!-- p><b>Os cria que me visitou </b></p -->
+<!--div align="center">
+  <p><b>Os cria que me visitou </b></p>
   <img src="https://profile-counter.glitch.me/carlos0ff/count.svg" alt="Contador de visitas" />
-</div>
+</div -->
