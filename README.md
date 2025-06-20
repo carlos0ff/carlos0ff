@@ -1,6 +1,6 @@
-<p align="center">
+<!--p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
-</p>
+</p -->
 
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank">
