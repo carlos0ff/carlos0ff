@@ -9,9 +9,6 @@
   <a href="mailto:carlosiilva66@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/carliinhos0f/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="https://github.com/carlos0ff" target="_blank">
     <img src="https://img.shields.io/badge/carlos0ff-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
