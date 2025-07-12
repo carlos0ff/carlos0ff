@@ -1,7 +1,3 @@
-<!--p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&center=true&vCenter=true&duration=3000&color=1856ED&size=40&width=800&lines=E+aí,+consagrados!+Suave?;Prazer,+eu+sou+o+Carlos!;Só+mais+um+café+e+já+era!;" />
-</p -->
-
 <div align="center">
   <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
@@ -26,9 +22,7 @@
 </div>
 
 <div align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="235" alt="Resumo" />
-  
 </div>
 
 <!-- img align="right" width="400" height="495" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
@@ -69,24 +63,4 @@ Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** 
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00000000"/>
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&border_color=00000000"/>
-      </td>
-    </tr>
-  </table>
-</div> 
-
-<br />
-
-<!-- div align="center">
-  <p><b>Os cria que me visitou </b></p>
-  <img src="https://profile-counter.glitch.me/carlos0ff/count.svg" alt="Contador de visitas" />
 </div -->
