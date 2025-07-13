@@ -40,7 +40,7 @@
 
 <br/>
 
-<!-- RESUMO -->
+<!-- RESUMO 
 <div align="center">
   <img width="880" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" alt="Resumo GitHub" />
-</div>
+</div>-->
