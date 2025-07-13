@@ -32,7 +32,7 @@
         <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
       </td>
       <td>
-        <img width="430" src="https://github-readme-stats.vercel.app/api/pin/?username=carlos0ff&repo=folha-de-pagamento-springboot&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+        <img width="430" src="https://github-readme-stats.vercel.app/api/pin/?username=carlos0ff&repo=folha-de-pagamento-java&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
       </td>
     </tr>
   </table>
