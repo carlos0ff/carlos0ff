@@ -7,67 +7,40 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/carlos0ff" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/carlos0ff-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-carlos0ff-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/carlos0ff" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=1856ED&style=for-the-badge&logoColor=white" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=1856ED&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
 
-<br />
+<br/><br/>
 
 <!-- ESTATÍSTICAS GITHUB -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos0ff&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos0ff&repo=folha-de-pagamento-springboot&theme=tokyonight&hide_border=true" height="150" alt="Pinned Repo" />
-</div>
-
-<br />
-
-<!-- RESUMO -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="235" alt="Resumo GitHub" />
-</div>
-
-
-<!-- img align="right" width="400" height="495" src="https://i.gifer.com/6tXM.gif" alt="Animação de Programação" />
-
----
-
-### 👨‍💻 Sobre o Criador
-
-**Falando sobre coisas pessoais:**
-
-Comecei na TI aos **14 anos** com cursos de montagem e manutenção de computadores. Por ser dedicado e comprometido, fui convidado pelo meu professor para ser **jovem aprendiz**.
-
-Durante o ensino médio, mergulhei em projetos de **eletrônica**, **redes** e **automação com Arduino usando C**.  
-Com **16 anos**, já estava desenvolvendo com **C# e PHP**.
-
-Hoje, me dedico ao desenvolvimento em **Java**, criando **mods para Minecraft** e aplicações web com **Spring Boot**, **Angular** e **TailwindCSS**.
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Minhas Stacks de Desenvolvimento
-
-<div align="left">
   <table>
     <tr>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
-        <br><strong>Java</strong>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" height="150" alt="GitHub Stats" />
       </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60" height="60" alt="Spring Boot"/>
-        <br><strong>Spring Boot</strong>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos0ff&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
       </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="60" height="60" alt="Angular"/>
-        <br><strong>Angular</strong>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
       </td>
-      <td align="center" width="110">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS"/>
-        <br><strong>Tailwind CSS</strong>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=carlos0ff&repo=folha-de-pagamento-springboot&theme=tokyonight&hide_border=true" height="150" alt="Pinned Repo" />
       </td>
     </tr>
   </table>
-</div -->
+</div>
+
+<br/><br/>
+
+<!-- RESUMO
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" height="235" alt="Resumo GitHub" />
+</div> -->
