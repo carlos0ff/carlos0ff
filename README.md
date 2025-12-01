@@ -1,46 +1,100 @@
-<!-- CONTATOS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&size=38&center=true&vCenter=true&width=900&lines=E+a%C3%AD%2C+consagrados!+%F0%9F%91%8B;Prazer%2C+eu+sou+o+Carlos!;S%C3%B3+mais+um+caf%C3%A9+e+j%C3%A1+era!+%E2%98%95;PHP+%7C+Laravel+%7C+Laravel+no+sangue" alt="Typing SVG" />
+</p>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
   </a>
-  <a href="mailto:carlosiilva66@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:carlosiilva66@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/carlos0ff" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.instagram.com/carliinhos0f/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://github.com/carlos0ff" target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visualizações&color=0A66C2&style=for-the-badge&logoColor=white" alt="Visualizações de Perfil" />
+  <a href="https://wa.me/55SEUNUMERO" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visitas+no+perfil&color=1856ED&style=for-the-badge" alt="Visitas"/>
 </div>
 
+---
+
+<img align="right" width="380" src="https://i.gifer.com/6tXM.gif" alt="Programando na velocidade da luz">
+
+## Sobre o Consagrado Aqui
+
+Comecei na TI com **14 anos** montando PC e fazendo curso de hardware.
+Fui **jovem aprendiz** porque o professor viu que eu não era de brincadeira.
+
+* **Histórico:** 16 anos → já codava em **C#, PHP e Arduino**. Ensino médio técnico → eletrônica, redes e automação.
+* **Foco Atual:** PHP + Laravel, Java (Spring Boot) e mods de Minecraft.
+* **Próximo Passo:** Buscar a **primeira vaga como Dev PHP Júnior ou Fullstack Java**.
+
+> **Disponível para:** Estágio, Júnior, Remoto ou Presencial (SP e região).
+
+---
+## 🛠️ Tecnologias que Eu Já Quebro no Dia a Dia
+
+<div align="center">
+
+### 💻 Linguagens & Principais Frameworks (Backend)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql&perline=5" />
+  </a>
+</p>
 <br/>
 
-<!-- ESTATÍSTICAS GITHUB -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="430" src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos0ff&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-      </td>
-      <td>
-       <img width="430" src="https://github-readme-stats.vercel.app/api/pin/?username=carlos0ff&repo=folha-de-pagamento-java&theme=tokyonight&hide_border=true&cache_seconds=0" alt="Pinned Repo" />
-      </td>
-    </tr>
-  </table>
+### 🌐 Frontend e Tipagem
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular&perline=5" />
+  </a>
+</p>
+<br/>
+
+### 🎨 Estilização e UI/UX
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&perline=2" />
+  </a>
+</p>
+<br/>
+
+### 🧰 Ferramentas, DevOps e Outros
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,arduino&perline=6" />
+  </a>
+</p>
+
 </div>
 
-<br/>
+<br>
 
-<!-- RESUMO -->
+---
+
+## 🚀 Projetos que Mais Curto Mostrar
+
+| Projeto | Descrição | Stack Principal | Status | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| **MyDrugs Online** | E-commerce cyberpunk inspirado em "How to Sell Drugs Online (Fast)" | Laravel 12 + Vue 3 + Inertia + Tailwind + **Bitcoin** | Em desenvolvimento | 🔒 Privado (Entrevista) |
+| **Organizze Clone** | Plataforma de controle financeiro pessoal (metas, relatórios, dashboard) | Laravel 12 + Vue 3 + Inertia + Tailwind + **Mercado Pago** | Em desenvolvimento | 🔒 Privado (Entrevista) |
+| **Folha de Pagamento** | Sistema de RH completo com cálculo automático de salários | Laravel 12 + Vue 3 + Inertia + Tailwind + **Banco Santander** | Em desenvolvimento | ⏳ Em breve |
+| **CafeControl** | Sistema completo para gestão de cafeterias (pedidos, estoque, financeiro) | PHP Nativo + MySQL + JS/HTML/CSS | Em desenvolvimento | ⏳ Em breve |
+| **Mods de Minecraft** | Vários mods próprios (Ferramentas, itens customizados) | Java (Forge/Fabric) | Repositório privado | 🔒 Privado |
+
+<br>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1856ED&height=180&section=footer"/>
+
 <div align="center">
-  <img width="880" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlos0ff&theme=tokyonight" alt="Resumo GitHub" />
+  
+  <strong>“Experiência comercial? Ainda não.<br>
+  Mas tem história, tem código, tem café e tem vontade.”</strong>
+  <br><br>
+  
 </div>
