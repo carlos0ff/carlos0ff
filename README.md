@@ -34,46 +34,6 @@ Fui **jovem aprendiz** porque o professor viu que eu não era de brincadeira.
 > **Disponível para:** Estágio, Júnior, Remoto ou Presencial (SP e região).
 
 ---
-## 🛠️ Tecnologias que Eu Já Quebro no Dia a Dia
-
-<div align="center">
-
-### 💻 Linguagens & Principais Frameworks (Backend)
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,mysql&perline=5" />
-  </a>
-</p>
-<br/>
-
-### 🌐 Frontend e Tipagem
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,angular&perline=5" />
-  </a>
-</p>
-<br/>
-
-### 🎨 Estilização e UI/UX
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind&perline=2" />
-  </a>
-</p>
-<br/>
-
-### 🧰 Ferramentas, DevOps e Outros
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,arduino&perline=6" />
-  </a>
-</p>
-
-</div>
-
-<br>
-
----
 
 ## 🚀 Projetos que Mais Curto Mostrar
 
