@@ -31,7 +31,7 @@ Fui **jovem aprendiz** porque o professor viu que eu não era de brincadeira.
 * **Foco Atual:** PHP + Laravel, Java (Spring Boot) e mods de Minecraft.
 * **Próximo Passo:** Buscar a **primeira vaga como Dev PHP Júnior ou Fullstack Java**.
 
-> **Disponível para:** Estágio, Júnior, Remoto ou Presencial (SP e região).
+> **Disponível para:** Estágio, Júnior, Remoto ou Presencial (PE e região).
 
 ---
 
