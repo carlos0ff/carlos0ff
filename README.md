@@ -35,22 +35,6 @@ Fui **jovem aprendiz** porque o professor viu que eu não era de brincadeira.
 
 ---
 
-## 🚀 Projetos que Mais Curto Mostrar
-
-| Projeto | Descrição | Stack Principal | Status | Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **MyDrugs Online** | E-commerce cyberpunk inspirado em "How to Sell Drugs Online (Fast)" | Laravel 12 + Vue 3 + Inertia + Tailwind + **Bitcoin** | Em desenvolvimento | 🔒 Privado (Entrevista) |
-| **Organizze Clone** | Plataforma de controle financeiro pessoal (metas, relatórios, dashboard) | Laravel 12 + Vue 3 + Inertia + Tailwind + **Mercado Pago** | Em desenvolvimento | 🔒 Privado (Entrevista) |
-| **Folha de Pagamento** | Sistema de RH completo com cálculo automático de salários | Laravel 12 + Vue 3 + Inertia + Tailwind + **Banco Santander** | Em desenvolvimento | ⏳ Em breve |
-| **CafeControl** | Sistema completo para gestão de cafeterias (pedidos, estoque, financeiro) | PHP Nativo + MySQL + JS/HTML/CSS | Em desenvolvimento | ⏳ Em breve |
-| **Mods de Minecraft** | Vários mods próprios (Ferramentas, itens customizados) | Java (Forge/Fabric) | Repositório privado | 🔒 Privado |
-
-<br>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1856ED&height=180&section=footer"/>
-
 <div align="center">
   
   <strong>“Experiência comercial? Ainda não.<br>
