@@ -52,15 +52,6 @@ Curioso, persistente e movido a ☕ + código.
       <sub><b>Spring</b></sub>
     </td>
   </tr>
-
-  <!-- Linha 2 -->
-  <tr>
-    <td align="center" width="120">
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    
-  </tr>
 </table>
 
 
