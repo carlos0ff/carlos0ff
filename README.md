@@ -55,16 +55,3 @@ Curioso, persistente e movido a ☕ + código.
 </table>
 
 
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=carlos0ff&theme=tokyo-night&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=carlos0ff&theme=github-light&hide_border=true&area=true">
-    <img alt="Gráfico de atividades" src="https://github-readme-activity-graph.vercel.app/graph?username=carlos0ff&theme=tokyo-night&hide_border=true&area=true"/>
-  </picture>
-</div>
-
----
-
-
