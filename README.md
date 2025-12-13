@@ -17,12 +17,7 @@
   <a href="https://www.instagram.com/carliinhos0f/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://wa.me/55SEUNUMERO" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-
-  <br/><br/>
-
+ 
   <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visitas+no+perfil&color=1856ED&style=for-the-badge" alt="Visitas no perfil"/>
 
 </div>
