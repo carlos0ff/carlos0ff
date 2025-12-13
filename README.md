@@ -54,8 +54,6 @@ Curioso, persistente e movido a ☕ + código.
   </tr>
 </table>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F4B&height=120&section=footer&fontSize=30" />
 </div>
