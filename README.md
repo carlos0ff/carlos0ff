@@ -27,8 +27,8 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por **PHP, Laravel e backend**,  sempre buscando <br /> evoluir 
-e criar aplicações cada vez mais robustas, modernas e performáticas.  
+Sou um desenvolvedor apaixonado por **PHP, Laravel e backend**,  sempre buscando  evoluir 
+e criar aplicações cada vez mais robustas,<br />  modernas e performáticas.  
 Curioso, persistente e movido a ☕ + código.
 
 ## 🚀 Tecnologias & Ferramentas
