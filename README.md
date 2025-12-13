@@ -1,7 +1,5 @@
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=900&size=38&center=true&vCenter=true&width=900&lines=E+aí,+consagrados!+👋;Eu+sou+o+Carlos!;Café+no+código,+Laravel+no+sangue+☕🔥;Dev+em+evolução+constante"
-    alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&size=38&center=true&vCenter=true&width=900&lines=E+a%C3%AD%2C+consagrados!+%F0%9F%91%8B;Prazer%2C+eu+sou+o+Carlos!;S%C3%B3+mais+um+caf%C3%A9+e+j%C3%A1+era!+%E2%98%95;PHP+%7C+Laravel+%7C+Laravel+no+sangue" alt="Typing SVG" />
 </p>
 
 <div align="center">
