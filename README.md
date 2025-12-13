@@ -1,8 +1,7 @@
 <p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3500&pause=900&size=38&center=true&vCenter=true&width=900&lines=E+aí,+consagrados!+👋;Eu+sou+o+Carlos!;Café+no+código,+Laravel+no+sangue+☕🔥;Dev+em+evolução+constante"
-    alt="Typing Animation"
-/>
+    alt="Typing Animation" />
 </p>
 
 <div align="center">
@@ -32,9 +31,6 @@ e criar aplicações cada vez mais robustas, modernas e performáticas.
 Curioso, persistente e movido a ☕ + código.
 
 ## 🚀 Tecnologias & Ferramentas
-<div align="center">
-
-### 🛠️ Tecnologias & Ferramentas
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -45,9 +41,6 @@ Curioso, persistente e movido a ☕ + código.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-
-</div>
-
 
 ---
 
