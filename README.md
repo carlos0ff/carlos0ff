@@ -1,6 +1,6 @@
-<p align="center">
+<!-- p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F4B&height=180&section=header&fontSize=40" />
-</p>
+</p -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&size=38&center=true&vCenter=true&width=900&lines=E+a%C3%AD%2C+consagrados!+%F0%9F%91%8B;Prazer%2C+eu+sou+o+Carlos!;S%C3%B3+mais+um+caf%C3%A9+e+j%C3%A1+era!+%E2%98%95;PHP+%7C+Laravel+%7C+Laravel+no+sangue" alt="Typing SVG" />
@@ -11,12 +11,18 @@
   <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn"/>
   </a>
+  
   <a href="mailto:carlosiilva66@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Backend%20Developer-0B1F4B?style=for-the-badge&logo=php&logoColor=white" alt="Backend Developer" />
   </a>
-  <a href="https://www.instagram.com/carliinhos0f/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+
+ <!-- a href="https://laravel.com" target="_blank">
+  <img 
+    src="https://img.shields.io/badge/Laravel%20Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+    alt="Laravel Developer"
+  />
+</a -->
+
  
   <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visitas+no+perfil&color=1856ED&style=for-the-badge" alt="Visitas no perfil"/>
 
@@ -24,7 +30,7 @@
 
 ---
 
-<img align="right" width="380" src="https://cdn.dribbble.com/userupload/21308253/file/original-81936e358fe86250c84206557b61b09d.gif" alt="Developer tomando café e codando" />
+<img align="right" width="380" src="https://i.gifer.com/6tXM.gif" alt="Developer tomando café e codando no Ódio" />
 
 ## 👨‍💻 Sobre mim
 
@@ -40,20 +46,28 @@ Pouco depois, virei **jovem aprendiz** porque perceberam que eu levava o negóci
 
 ## 🚀 Tecnologias que domino (e amo)
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin: 40px 0;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="60" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="60" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="60" alt="Spring Boot"/>
-  <!-- Adicione mais se quiser! -->
-</div>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /><br/>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /><br/>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /><br/>
+      <sub><b>Spring</b></sub>
+    </td>
+  </tr>
+</table>
 
-## 📊 Minhas estatísticas no GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=carlos0ff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos0ff&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-</div>
+--- 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F4B&height=120&section=footer&fontSize=30" />
