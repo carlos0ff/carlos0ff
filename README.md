@@ -32,31 +32,36 @@ Curioso, persistente e movido a ☕ + código.
 
 ## 🚀 Tecnologias & Ferramentas
 
-<p style="display: flex; justify-content: center; gap: 18px;">
+<!-- Linha 1 -->
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /><br/>
+      <sub><b>PHP</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /><br/>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /><br/>
+      <sub><b>Spring</b></sub>
+    </td>
+  </tr>
 
-  <!-- PHP -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-
-  <!-- Laravel -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-
-  <!-- Java -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-  <!-- Spring -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-
-  <!-- JavaScript -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-  <!-- HTML -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-  <!-- CSS -->
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-</p>
-
+  <!-- Linha 2 -->
+  <tr>
+    <td align="center" width="120">
+      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    
+  </tr>
+</table>
 
 
 ---
