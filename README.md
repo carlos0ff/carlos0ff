@@ -36,7 +36,7 @@
 
 E aí, consagrado! 👋
 
-Minha jornada na tecnologia começou cedo — aos **14 anos**, desmontando PCs, montando de volta (quase sempre funcionando 😅) e mergulhando em cursos de hardware.  
+Minha jornada na tecnologia começou cedo — aos **16 anos**, desmontando PCs, montando de volta (quase sempre funcionando 😅) e mergulhando em cursos de hardware.  
 Pouco depois, virei **jovem aprendiz** porque perceberam que eu levava o negócio a sério.
 
 ### 📌 Linha do tempo rápida
