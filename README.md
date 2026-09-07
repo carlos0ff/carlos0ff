@@ -1,74 +1,112 @@
-<!-- p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F4B&height=180&section=header&fontSize=40" />
-</p -->
+# Hi, I'm José Carlos 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&size=38&center=true&vCenter=true&width=900&lines=E+a%C3%AD%2C+consagrados!+%F0%9F%91%8B;Prazer%2C+eu+sou+o+Carlos!;S%C3%B3+mais+um+caf%C3%A9+e+j%C3%A1+era!+%E2%98%95;PHP+%7C+Laravel+%7C+Laravel+no+sangue" alt="Typing SVG" />
-</p>
+### Software Developer | Full Stack | PHP & Laravel | Vue.js | Artificial Intelligence
 
-<div align="center">
+I am a software developer focused on building reliable, maintainable, and scalable web applications.
 
-  <a href="https://www.linkedin.com/in/carlos0ff/" target="_blank">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF" alt="LinkedIn"/>
-  </a>
-  
-  <a href="mailto:carlosiilva66@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Backend%20Developer-0B1F4B?style=for-the-badge&logo=php&logoColor=white" alt="Backend Developer" />
-  </a>
+My main stack is *PHP and Laravel* for backend development, combined with *Vue.js, Inertia.js, and Tailwind CSS* on the frontend.
 
- <!-- a href="https://laravel.com" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Laravel%20Developer-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-    alt="Laravel Developer"
-  />
-</a -->
+I also have hands-on experience with *REST APIs, relational databases, Docker, GitHub Actions, CI/CD, software architecture, and microservices concepts*.
 
- 
-  <img src="https://komarev.com/ghpvc/?username=carlos0ff&label=Visitas+no+perfil&color=1856ED&style=for-the-badge" alt="Visitas no perfil"/>
-
-</div>
+My background in technical support and automotive ECU programming helped me develop a strong foundation in *troubleshooting, technical documentation, analytical thinking, and structured problem-solving* — skills that I now apply directly to software development.
 
 ---
 
-<img align="right" width="380" src="https://i.gifer.com/6tXM.gif" alt="Developer tomando café e codando no Ódio" />
+## 🛠️ Tech Stack
 
-## 👨‍💻 Sobre mim
+### Backend
 
-E aí, consagrado! 👋
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
 
-Minha jornada na tecnologia começou cedo — aos **16 anos**, desmontando PCs, montando de volta (quase sempre funcionando 😅) e mergulhando em cursos de hardware.  
-Pouco depois, virei **jovem aprendiz** porque perceberam que eu levava o negócio a sério.
+### Frontend
 
-### 📌 Linha do tempo rápida
-- **16 anos:** já programava em **C#**, **PHP** e **Arduino**.
-- **Ensino Médio Técnico:** eletrônica, redes e automação.
-- **Hoje:** sangue vermelho Laravel, Java (Spring Boot) nas veias e ainda faço uns mods irados de Minecraft nos tempos livres.
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs\&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-## 🚀 Tecnologias que domino (e amo)
+### Databases
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /><br/>
-      <sub><b>PHP</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" /><br/>
-      <sub><b>Laravel</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="120">
-      <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" /><br/>
-      <sub><b>Spring</b></sub>
-    </td>
-  </tr>
-</table>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F4B&height=120&section=footer&fontSize=30" />
-  <p>Obrigado pela visita! Bora codar? ☕🚀</p>
-</div>
+### DevOps & Tools
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+
+---
+
+## 💻 What I Work With
+
+* Full Stack Web Development
+* Backend Development with PHP & Laravel
+* REST API Development
+* Relational Database Modeling
+* MySQL & PostgreSQL
+* Vue.js & Inertia.js
+* Dockerized Development Environments
+* Git & GitHub
+* GitHub Actions and CI/CD
+* Software Architecture
+* Microservices Concepts
+* Artificial Intelligence applied to Software Development
+
+---
+
+## 🚀 Featured Project
+
+### 💰 Personal Finance Management Platform
+
+Full Stack application designed to help users manage their personal finances.
+
+*Technologies:*
+Laravel · Vue.js · Inertia.js · Tailwind CSS · MySQL/PostgreSQL · Docker
+
+The project includes concepts such as:
+
+* Financial dashboard
+* Transaction management
+* Category management
+* Business rules
+* Relational database modeling
+* RESTful architecture
+* Frontend/backend integration
+* Containerized development environment
+
+👉 [View the project](https://github.com/carlos0ff/poupai)
+
+---
+
+## 🤖 Artificial Intelligence
+
+I am currently expanding my knowledge in *Artificial Intelligence applied to Software Engineering*, exploring how AI can be integrated with modern applications, APIs, automation, and development workflows.
+
+My goal is to combine *Software Development + AI* to build smarter and more efficient solutions.
+
+---
+
+## 📈 Currently Improving
+
+* Software Architecture
+* Clean Code
+* Design Patterns
+* REST API Design
+* Laravel Ecosystem
+* Docker
+* CI/CD
+* Artificial Intelligence
+* Scalable Application Development
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://www.linkedin.com/in/josecarlossjr/)
+
+---
+
+> Building software, solving problems, and continuously improving.
